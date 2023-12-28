@@ -1,4 +1,4 @@
-###Method: sortAscending
+##Method: sortAscending
 Description:
 Sorts an array of integers in ascending order.
 
@@ -10,7 +10,7 @@ Return:
 The sorted array.
 
 
-###Method: calculateStats
+##Method: calculateStats
 Description:
 Calculates statistics (Max, Min, and Average) of an array of integers.
 
@@ -21,7 +21,7 @@ Return:
 
 An array of doubles containing Max, Min, and Average values.
 
-###Method: matrixAddition
+##Method: matrixAddition
 Description:
 Adds two matrices.
 
@@ -35,7 +35,7 @@ Return:
 
 The sum of the input matrices as a 2D array.
 
-###Method: matrixMultiplication
+##Method: matrixMultiplication
 Description:
 Multiplies two matrices.
 
